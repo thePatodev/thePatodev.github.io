@@ -2,5 +2,5 @@ console.log("je suis là")
 
 
 setInterval(() => {
-    console.log("heure")
+    console.log("heure", new Date())
 }, 3000)
